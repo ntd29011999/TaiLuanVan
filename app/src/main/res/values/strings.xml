@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppGroupLocate</string>
+
+    <string name="map_api_key">AIzaSyBkQY3VTsCN9SdhvMHV_-nGJ89bFijJdic</string>
+
+    <string name="default_info_title">Title</string>
+    <string name="default_info_snippet">Snippet</string>
+    <string name="pick_place">Place</string>
+    <string name="default_user_name">Default Name</string>
+</resources>

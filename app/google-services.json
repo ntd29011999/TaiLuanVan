@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270238613715",
+    "project_id": "model-nexus-311609",
+    "storage_bucket": "model-nexus-311609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270238613715:android:31a089179eb16108df1426",
+        "android_client_info": {
+          "package_name": "com.example.appgrouplocate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270238613715-b65govkll5h4f3d9dhhkc4hbru02cpe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwAuyu_JMLzVD0XXuej8rsEhTfROM3Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270238613715-b65govkll5h4f3d9dhhkc4hbru02cpe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
